@@ -1,0 +1,16 @@
+{
+  "name": "Carbon Health Care",
+  "short_name": "Carbon",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/static/favicon-32x32.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#24A06D",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
+}

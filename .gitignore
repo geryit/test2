@@ -1,0 +1,13 @@
+.DS_Store
+yarn-error.log
+npm-debug.log
+.idea
+node_modules/
+.next/
+/_html_export/next
+package-lock.json
+newrelic_agent.log
+.env
+/security/
+/static/css/uncompressed
+/.project
